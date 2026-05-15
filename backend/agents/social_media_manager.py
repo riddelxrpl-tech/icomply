@@ -1,0 +1,1 @@
+Social Media Manager for LinkedIn, Instagram, X, TikTok.
